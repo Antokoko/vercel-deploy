@@ -10,6 +10,14 @@
         {
             "src": "/(.*)",
             "dest": "/"
+        },
+        {
+            "src": "/",
+            "dest": "signup.html"
+        },
+        {
+            "src": "css/styles.css",
+            "dest": "public/css/styles.css"
         }
     ]
 }
